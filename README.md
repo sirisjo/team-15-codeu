@@ -1,2 +1,2 @@
 # codeu-starter-project
-https://su19-codeu-15-1527.appspot.com/
+http://sharp-bulwark-253421.appspot.com/index.html
